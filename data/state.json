@@ -1,223 +1,132 @@
 {
-  "last_run": "2026-07-08 23:41:27",
+  "last_run": "2026-07-08 23:45:06",
   "last_trade_date": "2026-07-08",
   "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 1,
+      "streak": 2,
       "last_linkage": "联动中",
-      "last_avg_score": 57.5,
-      "last_count": 28
+      "last_avg_score": 54.3,
+      "last_count": 15
     },
     "AI/算力/数据中心": {
-      "streak": 1,
+      "streak": 2,
       "last_linkage": "孤立异动",
-      "last_avg_score": 76.1,
+      "last_avg_score": 68.8,
       "last_count": 1
     }
   },
   "stocks": {
-    "002129": {
-      "name": "TCL中环",
-      "streak": 1,
-      "last_group": "只看不追池",
-      "last_score": 89.5,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002185": {
-      "name": "华天科技",
-      "streak": 1,
-      "last_group": "只看不追池",
-      "last_score": 84.8,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "000593": {
-      "name": "德龙汇能",
-      "streak": 1,
-      "last_group": "低吸观察池",
-      "last_score": 84.6,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002329": {
-      "name": "皇氏集团",
-      "streak": 1,
-      "last_group": "低吸观察池",
-      "last_score": 82.9,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002607": {
-      "name": "中公教育",
-      "streak": 1,
-      "last_group": "低吸观察池",
-      "last_score": 81.3,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "600246": {
-      "name": "万通发展",
-      "streak": 1,
-      "last_group": "只看不追池",
-      "last_score": 79.7,
-      "last_theme": "其他龙虎榜异动"
-    },
     "002674": {
       "name": "兴业科技",
-      "streak": 1,
+      "streak": 2,
       "last_group": "低吸观察池",
-      "last_score": 79.6,
+      "last_score": 80.4,
       "last_theme": "其他龙虎榜异动"
-    },
-    "600756": {
-      "name": "浪潮软件",
-      "streak": 1,
-      "last_group": "低吸观察池",
-      "last_score": 76.1,
-      "last_theme": "AI/算力/数据中心"
     },
     "002951": {
       "name": "金时科技",
-      "streak": 1,
+      "streak": 2,
       "last_group": "低吸观察池",
-      "last_score": 75.4,
+      "last_score": 78.4,
       "last_theme": "其他龙虎榜异动"
     },
     "001206": {
       "name": "依依股份",
-      "streak": 1,
+      "streak": 2,
       "last_group": "只看不追池",
-      "last_score": 72.3,
+      "last_score": 73.6,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "600756": {
+      "name": "浪潮软件",
+      "streak": 2,
+      "last_group": "只看不追池",
+      "last_score": 68.8,
+      "last_theme": "AI/算力/数据中心"
+    },
+    "603313": {
+      "name": "梦百合",
+      "streak": 2,
+      "last_group": "突破确认池",
+      "last_score": 65.2,
       "last_theme": "其他龙虎榜异动"
     },
     "001229": {
       "name": "魅视科技",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
-      "last_score": 70.7,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002585": {
-      "name": "双星新材",
-      "streak": 1,
-      "last_group": "只看不追池",
-      "last_score": 66.6,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002747": {
-      "name": "埃斯顿",
-      "streak": 1,
-      "last_group": "只看不追池",
-      "last_score": 64.8,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "603313": {
-      "name": "梦百合",
-      "streak": 1,
-      "last_group": "突破确认池",
-      "last_score": 64.4,
+      "last_score": 63.3,
       "last_theme": "其他龙虎榜异动"
     },
     "600094": {
       "name": "大名城",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
-      "last_score": 57.9,
+      "last_score": 62.4,
       "last_theme": "其他龙虎榜异动"
     },
     "002910": {
       "name": "庄园牧场",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
-      "last_score": 51.2,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "603065": {
-      "name": "宿迁联盛",
-      "streak": 1,
-      "last_group": "突破确认池",
-      "last_score": 51.2,
+      "last_score": 52.3,
       "last_theme": "其他龙虎榜异动"
     },
     "002268": {
       "name": "电科网安",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
-      "last_score": 50.5,
+      "last_score": 52.3,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "603065": {
+      "name": "宿迁联盛",
+      "streak": 2,
+      "last_group": "突破确认池",
+      "last_score": 51.2,
       "last_theme": "其他龙虎榜异动"
     },
     "603118": {
       "name": "共进股份",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
-      "last_score": 46.5,
+      "last_score": 47.2,
       "last_theme": "其他龙虎榜异动"
     },
-    "002457": {
-      "name": "青龙管业",
-      "streak": 1,
-      "last_group": "风险回避池",
-      "last_score": 45.2,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "603137": {
-      "name": "恒尚节能",
-      "streak": 1,
+    "603178": {
+      "name": "圣龙股份",
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 41.5,
       "last_theme": "其他龙虎榜异动"
     },
     "000838": {
       "name": "*ST发展",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
-      "last_score": 38.3,
+      "last_score": 41.2,
       "last_theme": "其他龙虎榜异动"
     },
-    "603178": {
-      "name": "圣龙股份",
-      "streak": 1,
+    "603137": {
+      "name": "恒尚节能",
+      "streak": 2,
       "last_group": "风险回避池",
-      "last_score": 38.1,
+      "last_score": 38.9,
       "last_theme": "其他龙虎榜异动"
     },
     "300164": {
       "name": "通源石油",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
-      "last_score": 37.0,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "603538": {
-      "name": "美诺华",
-      "streak": 1,
-      "last_group": "风险回避池",
-      "last_score": 35.4,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "600288": {
-      "name": "大恒科技",
-      "streak": 1,
-      "last_group": "风险回避池",
-      "last_score": 32.4,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "603861": {
-      "name": "白云电器",
-      "streak": 1,
-      "last_group": "风险回避池",
-      "last_score": 32.3,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "000078": {
-      "name": "ST海王",
-      "streak": 1,
-      "last_group": "风险回避池",
-      "last_score": 27.9,
+      "last_score": 36.5,
       "last_theme": "其他龙虎榜异动"
     },
     "300029": {
       "name": "天龙退",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
-      "last_score": 27.1,
+      "last_score": 29.9,
       "last_theme": "其他龙虎榜异动"
     }
   },
