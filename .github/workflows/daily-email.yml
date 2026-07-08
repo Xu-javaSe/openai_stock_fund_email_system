@@ -1,0 +1,96 @@
+name: Stock Fund Observation Email
+
+on:
+  workflow_dispatch:
+    inputs:
+      trade_date:
+        description: "Trade date, e.g. 2026-07-08. Empty means today in China time."
+        required: false
+        default: ""
+      report_mode:
+        description: "stock = stock only, full = stock + ETF + OTC funds"
+        required: false
+        default: ""
+  schedule:
+    # GitHub Actions uses UTC. 04:00 UTC = 12:00 China time.
+    - cron: "0 4 * * 1-5"
+    # 06:00 UTC = 14:00 China time.
+    - cron: "0 6 * * 1-5"
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Resolve date and mode
+        id: meta
+        shell: bash
+        run: |
+          if [ -n "${{ github.event.inputs.trade_date }}" ]; then
+            echo "trade_date=${{ github.event.inputs.trade_date }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "trade_date=$(TZ=Asia/Shanghai date +%F)" >> "$GITHUB_OUTPUT"
+          fi
+
+          if [ -n "${{ github.event.inputs.report_mode }}" ]; then
+            echo "mode=${{ github.event.inputs.report_mode }}" >> "$GITHUB_OUTPUT"
+          else
+            hour="$(date -u +%H)"
+            if [ "$hour" = "06" ]; then
+              echo "mode=full" >> "$GITHUB_OUTPUT"
+            else
+              echo "mode=stock" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - name: Send observation email
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_SUBJECT_PREFIX: ${{ secrets.MAIL_SUBJECT_PREFIX }}
+        run: |
+          python scripts/send_report.py \
+            --date "${{ steps.meta.outputs.trade_date }}" \
+            --mode "${{ steps.meta.outputs.mode }}" \
+            --output output \
+            --top 30 \
+            --fund-top 24
+
+      - name: Commit memory state
+        if: always()
+        shell: bash
+        run: |
+          if [ -f data/state.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/state.json
+            if ! git diff --cached --quiet; then
+              git commit -m "Update observation memory state"
+              git push
+            else
+              echo "No state changes to commit."
+            fi
+          fi
+
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: stock-fund-observation-report
+          path: output/
