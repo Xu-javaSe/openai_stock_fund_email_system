@@ -1,16 +1,16 @@
 {
-  "last_run": "2026-07-08 23:57:19",
+  "last_run": "2026-07-08 23:59:33",
   "last_trade_date": "2026-07-08",
   "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 4,
+      "streak": 5,
       "last_linkage": "联动中",
       "last_avg_score": 54.3,
       "last_count": 15
     },
     "AI/算力/数据中心": {
-      "streak": 4,
+      "streak": 5,
       "last_linkage": "孤立异动",
       "last_avg_score": 68.8,
       "last_count": 1
@@ -19,112 +19,112 @@
   "stocks": {
     "002674": {
       "name": "兴业科技",
-      "streak": 4,
+      "streak": 5,
       "last_group": "低吸观察池",
       "last_score": 80.4,
       "last_theme": "其他龙虎榜异动"
     },
     "002951": {
       "name": "金时科技",
-      "streak": 4,
+      "streak": 5,
       "last_group": "低吸观察池",
       "last_score": 78.4,
       "last_theme": "其他龙虎榜异动"
     },
     "001206": {
       "name": "依依股份",
-      "streak": 4,
+      "streak": 5,
       "last_group": "只看不追池",
       "last_score": 73.6,
       "last_theme": "其他龙虎榜异动"
     },
     "600756": {
       "name": "浪潮软件",
-      "streak": 4,
+      "streak": 5,
       "last_group": "只看不追池",
       "last_score": 68.8,
       "last_theme": "AI/算力/数据中心"
     },
     "603313": {
       "name": "梦百合",
-      "streak": 4,
+      "streak": 5,
       "last_group": "突破确认池",
       "last_score": 65.2,
       "last_theme": "其他龙虎榜异动"
     },
     "001229": {
       "name": "魅视科技",
-      "streak": 4,
+      "streak": 5,
       "last_group": "突破确认池",
       "last_score": 63.3,
       "last_theme": "其他龙虎榜异动"
     },
     "600094": {
       "name": "大名城",
-      "streak": 4,
+      "streak": 5,
       "last_group": "突破确认池",
       "last_score": 62.4,
       "last_theme": "其他龙虎榜异动"
     },
     "002910": {
       "name": "庄园牧场",
-      "streak": 4,
+      "streak": 5,
       "last_group": "风险回避池",
       "last_score": 52.3,
       "last_theme": "其他龙虎榜异动"
     },
     "002268": {
       "name": "电科网安",
-      "streak": 4,
+      "streak": 5,
       "last_group": "风险回避池",
       "last_score": 52.3,
       "last_theme": "其他龙虎榜异动"
     },
     "603065": {
       "name": "宿迁联盛",
-      "streak": 4,
+      "streak": 5,
       "last_group": "突破确认池",
       "last_score": 51.2,
       "last_theme": "其他龙虎榜异动"
     },
     "603118": {
       "name": "共进股份",
-      "streak": 4,
+      "streak": 5,
       "last_group": "风险回避池",
       "last_score": 47.2,
       "last_theme": "其他龙虎榜异动"
     },
     "603178": {
       "name": "圣龙股份",
-      "streak": 4,
+      "streak": 5,
       "last_group": "风险回避池",
       "last_score": 41.5,
       "last_theme": "其他龙虎榜异动"
     },
     "000838": {
       "name": "*ST发展",
-      "streak": 4,
+      "streak": 5,
       "last_group": "风险回避池",
       "last_score": 41.2,
       "last_theme": "其他龙虎榜异动"
     },
     "603137": {
       "name": "恒尚节能",
-      "streak": 4,
+      "streak": 5,
       "last_group": "风险回避池",
       "last_score": 38.9,
       "last_theme": "其他龙虎榜异动"
     },
     "300164": {
       "name": "通源石油",
-      "streak": 4,
+      "streak": 5,
       "last_group": "风险回避池",
       "last_score": 36.5,
       "last_theme": "其他龙虎榜异动"
     },
     "300029": {
       "name": "天龙退",
-      "streak": 4,
+      "streak": 5,
       "last_group": "风险回避池",
       "last_score": 29.9,
       "last_theme": "其他龙虎榜异动"
