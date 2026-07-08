@@ -74,15 +74,17 @@ jobs:
 
       - name: Commit memory state
         if: always()
+        continue-on-error: true
         shell: bash
         run: |
           if [ -f data/state.json ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git pull --rebase --autostash origin main || echo "State pull skipped; continuing without failing the email workflow."
             git add data/state.json
             if ! git diff --cached --quiet; then
               git commit -m "Update observation memory state"
-              git push
+              git push || echo "State push skipped; remote changed first. Report artifacts are still uploaded."
             else
               echo "No state changes to commit."
             fi
