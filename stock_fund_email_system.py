@@ -1448,15 +1448,22 @@ def send_email(subject: str, html_body: str, attachments: list[Path]) -> None:
             attach_file(message, path)
 
     context = ssl.create_default_context()
-    if smtp_port == 465:
-        with smtplib.SMTP_SSL(smtp_host, smtp_port, context=context) as server:
-            server.login(smtp_user, smtp_password)
-            server.send_message(message)
-    else:
-        with smtplib.SMTP(smtp_host, smtp_port) as server:
-            server.starttls(context=context)
-            server.login(smtp_user, smtp_password)
-            server.send_message(message)
+    try:
+        if smtp_port == 465:
+            with smtplib.SMTP_SSL(smtp_host, smtp_port, timeout=30, context=context) as server:
+                server.login(smtp_user, smtp_password)
+                server.send_message(message)
+        else:
+            with smtplib.SMTP(smtp_host, smtp_port, timeout=30) as server:
+                server.starttls(context=context)
+                server.login(smtp_user, smtp_password)
+                server.send_message(message)
+    except TimeoutError as exc:
+        raise RuntimeError(
+            f"连接 SMTP 服务器超时：{smtp_host}:{smtp_port}。"
+            "这通常不是代码问题，而是该邮箱 SMTP 服务器不接受 GitHub Actions 的连接。"
+            "可尝试更换 163/Outlook/Gmail 的 SMTP，或改用邮件服务 API。"
+        ) from exc
 
 
 def build_report(args: argparse.Namespace) -> dict[str, Any]:
