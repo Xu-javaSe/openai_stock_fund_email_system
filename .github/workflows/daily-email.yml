@@ -38,22 +38,25 @@ jobs:
         id: meta
         shell: bash
         run: |
-          if [ -n "${{ github.event.inputs.trade_date }}" ]; then
-            echo "trade_date=${{ github.event.inputs.trade_date }}" >> "$GITHUB_OUTPUT"
+          input_date="${{ github.event.inputs.trade_date }}"
+          input_mode="${{ github.event.inputs.report_mode }}"
+          trigger_schedule="${{ github.event.schedule }}"
+
+          if [ -n "$input_date" ]; then
+            echo "trade_date=$input_date" >> "$GITHUB_OUTPUT"
           else
             echo "trade_date=$(TZ=Asia/Shanghai date +%F)" >> "$GITHUB_OUTPUT"
           fi
 
-          if [ -n "${{ github.event.inputs.report_mode }}" ]; then
-            echo "mode=${{ github.event.inputs.report_mode }}" >> "$GITHUB_OUTPUT"
+          if [ -n "$input_mode" ]; then
+            echo "mode=$input_mode" >> "$GITHUB_OUTPUT"
+          elif [ "$trigger_schedule" = "0 6 * * 1-5" ]; then
+            echo "mode=full" >> "$GITHUB_OUTPUT"
           else
-            hour="$(date -u +%H)"
-            if [ "$hour" = "06" ]; then
-              echo "mode=full" >> "$GITHUB_OUTPUT"
-            else
-              echo "mode=stock" >> "$GITHUB_OUTPUT"
-            fi
+            echo "mode=stock" >> "$GITHUB_OUTPUT"
           fi
+
+          echo "trigger_schedule=$trigger_schedule"
 
       - name: Send observation email
         env:
