@@ -1,205 +1,176 @@
 {
-  "last_run": "2026-07-14 16:17:15",
-  "last_trade_date": "2026-07-14",
-  "last_mode": "full",
+  "last_run": "2026-07-15 14:20:20",
+  "last_trade_date": "2026-07-15",
+  "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 18,
-      "last_linkage": "联动中",
-      "last_avg_score": 54.3,
-      "last_count": 18
+      "streak": 19,
+      "last_linkage": "联动强",
+      "last_avg_score": 60.6,
+      "last_count": 21
     },
-    "AI/算力/数据中心": {
-      "streak": 3,
-      "last_linkage": "联动中",
-      "last_avg_score": 74.6,
-      "last_count": 2
+    "芯片/半导体材料": {
+      "streak": 1,
+      "last_linkage": "孤立异动",
+      "last_avg_score": 49.7,
+      "last_count": 1
     }
   },
   "stocks": {
-    "002317": {
-      "name": "众生药业",
-      "streak": 3,
+    "002384": {
+      "name": "东山精密",
+      "streak": 1,
       "last_group": "低吸观察池",
-      "last_score": 96.7,
+      "last_score": 91.3,
       "last_theme": "其他龙虎榜异动"
     },
-    "600756": {
-      "name": "浪潮软件",
-      "streak": 3,
+    "603065": {
+      "name": "宿迁联盛",
+      "streak": 1,
       "last_group": "低吸观察池",
-      "last_score": 84.6,
-      "last_theme": "AI/算力/数据中心"
-    },
-    "002038": {
-      "name": "双鹭药业",
-      "streak": 3,
-      "last_group": "突破确认池",
-      "last_score": 80.8,
+      "last_score": 82.9,
       "last_theme": "其他龙虎榜异动"
     },
-    "300069": {
-      "name": "金利华电",
-      "streak": 3,
+    "003001": {
+      "name": "中岩大地",
+      "streak": 1,
+      "last_group": "低吸观察池",
+      "last_score": 80.2,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "003030": {
+      "name": "祖名股份",
+      "streak": 1,
+      "last_group": "低吸观察池",
+      "last_score": 77.7,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002490": {
+      "name": "山东墨龙",
+      "streak": 1,
+      "last_group": "低吸观察池",
+      "last_score": 74.2,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "300214": {
+      "name": "日科化学",
+      "streak": 1,
       "last_group": "只看不追池",
-      "last_score": 71.8,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "601608": {
-      "name": "中信重工",
-      "streak": 3,
-      "last_group": "只看不追池",
-      "last_score": 71.4,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002674": {
-      "name": "兴业科技",
-      "streak": 3,
-      "last_group": "只看不追池",
-      "last_score": 64.8,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002115": {
-      "name": "三维通信",
-      "streak": 3,
-      "last_group": "只看不追池",
-      "last_score": 64.6,
-      "last_theme": "AI/算力/数据中心"
-    },
-    "688584": {
-      "name": "上海合晶",
-      "streak": 3,
-      "last_group": "风险回避池",
-      "last_score": 57,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "688710": {
-      "name": "益诺思",
-      "streak": 3,
-      "last_group": "风险回避池",
-      "last_score": 57,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002208": {
-      "name": "合肥城建",
-      "streak": 3,
-      "last_group": "风险回避池",
-      "last_score": 57,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "600428": {
-      "name": "中远海特",
-      "streak": 3,
-      "last_group": "风险回避池",
-      "last_score": 52.5,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "001395": {
-      "name": "亚联机械",
-      "streak": 6,
-      "last_group": "风险回避池",
-      "last_score": 49.6,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "688101": {
-      "name": "三达膜",
-      "streak": 3,
-      "last_group": "风险回避池",
-      "last_score": 49.5,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002842": {
-      "name": "翔鹭钨业",
-      "streak": 3,
-      "last_group": "风险回避池",
-      "last_score": 48.9,
+      "last_score": 72.9,
       "last_theme": "其他龙虎榜异动"
     },
     "603538": {
       "name": "美诺华",
-      "streak": 3,
-      "last_group": "风险回避池",
-      "last_score": 44.4,
+      "streak": 4,
+      "last_group": "突破确认池",
+      "last_score": 71.3,
       "last_theme": "其他龙虎榜异动"
     },
-    "002829": {
-      "name": "星网宇达",
-      "streak": 6,
-      "last_group": "风险回避池",
-      "last_score": 41.8,
+    "000636": {
+      "name": "风华高科",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 66.6,
       "last_theme": "其他龙虎榜异动"
     },
-    "002726": {
-      "name": "ST龙大",
-      "streak": 3,
-      "last_group": "风险回避池",
-      "last_score": 36.4,
+    "002463": {
+      "name": "沪电股份",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 63.6,
       "last_theme": "其他龙虎榜异动"
     },
-    "300164": {
-      "name": "通源石油",
-      "streak": 3,
+    "603669": {
+      "name": "灵康药业",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 63.3,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002552": {
+      "name": "宝鼎科技",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 60.3,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "603459": {
+      "name": "红板科技",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 59.6,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "600488": {
+      "name": "津药药业",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 35.6,
+      "last_score": 57,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "603313": {
+      "name": "梦百合",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 56.2,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "000989": {
+      "name": "九芝堂",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 52.5,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002636": {
+      "name": "金安国纪",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 49.9,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "001388": {
+      "name": "信通电子",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 49.7,
+      "last_theme": "芯片/半导体材料"
+    },
+    "002185": {
+      "name": "华天科技",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 46.9,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002379": {
+      "name": "宏桥控股",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 44.0,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "603127": {
+      "name": "昭衍新药",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 43.4,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002581": {
+      "name": "*ST未名",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 36.0,
       "last_theme": "其他龙虎榜异动"
     },
     "002898": {
       "name": "赛隆退",
-      "streak": 3,
+      "streak": 4,
       "last_group": "风险回避池",
-      "last_score": 31.2,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "600491": {
-      "name": "ST龙元",
-      "streak": 3,
-      "last_group": "风险回避池",
-      "last_score": 30.5,
+      "last_score": 23.2,
       "last_theme": "其他龙虎榜异动"
     }
   },
-  "funds": {
-    "ETF:516510": {
-      "name": "云计算ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 66.2,
-      "last_theme": "AI/算力/数据中心"
-    },
-    "ETF:159819": {
-      "name": "人工智能ETF",
-      "streak": 1,
-      "last_group": "回调低吸池",
-      "last_score": 57.0,
-      "last_theme": "AI/算力/数据中心"
-    },
-    "场外基金:001409": {
-      "name": "工银互联网加股票",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 52.5,
-      "last_theme": "AI/算力/数据中心"
-    },
-    "场外基金:006751": {
-      "name": "富国互联科技股票A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 49.7,
-      "last_theme": "AI/算力/数据中心"
-    },
-    "场外基金:008086": {
-      "name": "华夏中证5G通信主题ETF联接A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 48.3,
-      "last_theme": "AI/算力/数据中心"
-    },
-    "ETF:515880": {
-      "name": "通信ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 45.7,
-      "last_theme": "AI/算力/数据中心"
-    }
-  }
+  "funds": {}
 }
