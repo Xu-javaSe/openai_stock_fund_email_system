@@ -1,189 +1,183 @@
 {
-  "last_run": "2026-07-23 14:34:39",
+  "last_run": "2026-07-23 16:37:55",
   "last_trade_date": "2026-07-23",
-  "last_mode": "stock",
+  "last_mode": "full",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 31,
-      "last_linkage": "联动强",
-      "last_avg_score": 60.5,
-      "last_count": 19
+      "streak": 32,
+      "last_linkage": "联动中",
+      "last_avg_score": 54.8,
+      "last_count": 10
     },
-    "芯片/半导体材料": {
-      "streak": 4,
-      "last_linkage": "联动弱",
-      "last_avg_score": 61.1,
-      "last_count": 2
+    "医药/医疗": {
+      "streak": 1,
+      "last_linkage": "孤立异动",
+      "last_avg_score": 62.4,
+      "last_count": 1
     },
     "新能源/电力设备": {
-      "streak": 7,
-      "last_linkage": "联动弱",
-      "last_avg_score": 55.0,
-      "last_count": 2
+      "streak": 8,
+      "last_linkage": "孤立异动",
+      "last_avg_score": 41.5,
+      "last_count": 1
     }
   },
   "stocks": {
-    "301273": {
-      "name": "瑞晨环保",
-      "streak": 2,
-      "last_group": "低吸观察池",
-      "last_score": 83.5,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "000938": {
-      "name": "紫光股份",
-      "streak": 2,
-      "last_group": "低吸观察池",
-      "last_score": 82.6,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "000526": {
-      "name": "学大教育",
-      "streak": 2,
-      "last_group": "低吸观察池",
-      "last_score": 82.0,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "000889": {
-      "name": "中嘉博创",
-      "streak": 2,
-      "last_group": "低吸观察池",
-      "last_score": 77.4,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "000506": {
-      "name": "招金黄金",
-      "streak": 2,
-      "last_group": "只看不追池",
-      "last_score": 73.0,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002396": {
-      "name": "星网锐捷",
-      "streak": 4,
-      "last_group": "只看不追池",
-      "last_score": 72.8,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002141": {
-      "name": "贤丰控股",
-      "streak": 2,
-      "last_group": "只看不追池",
-      "last_score": 69.0,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "603629": {
-      "name": "利通电子",
+    "000426": {
+      "name": "兴业银锡",
       "streak": 1,
       "last_group": "只看不追池",
+      "last_score": 79.3,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "001337": {
+      "name": "四川黄金",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 73.4,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002900": {
+      "name": "哈三联",
+      "streak": 1,
+      "last_group": "突破确认池",
       "last_score": 67.3,
-      "last_theme": "芯片/半导体材料"
-    },
-    "603120": {
-      "name": "肯特催化",
-      "streak": 1,
-      "last_group": "只看不追池",
-      "last_score": 60.0,
       "last_theme": "其他龙虎榜异动"
     },
-    "301190": {
-      "name": "善水科技",
-      "streak": 2,
+    "002412": {
+      "name": "汉森制药",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 62.4,
+      "last_theme": "医药/医疗"
+    },
+    "000595": {
+      "name": "新能股份",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 62.1,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "000815": {
+      "name": "美利云",
+      "streak": 1,
       "last_group": "风险回避池",
       "last_score": 57,
       "last_theme": "其他龙虎榜异动"
     },
-    "600722": {
-      "name": "金牛化工",
+    "301012": {
+      "name": "扬电科技",
       "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 56.6,
+      "last_score": 50.8,
       "last_theme": "其他龙虎榜异动"
     },
-    "603459": {
-      "name": "红板科技",
-      "streak": 1,
-      "last_group": "风险回避池",
-      "last_score": 55.0,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "001258": {
-      "name": "立新能源",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 55,
-      "last_theme": "新能源/电力设备"
-    },
-    "002197": {
-      "name": "证通电子",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 55,
-      "last_theme": "芯片/半导体材料"
-    },
-    "000539": {
-      "name": "粤电力A",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 55,
-      "last_theme": "新能源/电力设备"
-    },
-    "600602": {
-      "name": "云赛智联",
-      "streak": 1,
-      "last_group": "风险回避池",
-      "last_score": 54.0,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "605196": {
-      "name": "华通线缆",
-      "streak": 1,
-      "last_group": "风险回避池",
-      "last_score": 52.5,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "600726": {
-      "name": "华电能源",
-      "streak": 1,
-      "last_group": "风险回避池",
-      "last_score": 51.8,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "000603": {
-      "name": "盛达资源",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 49.1,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "603580": {
-      "name": "艾艾精工",
-      "streak": 1,
-      "last_group": "风险回避池",
-      "last_score": 48.3,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "300795": {
-      "name": "米奥会展",
-      "streak": 2,
+    "002141": {
+      "name": "贤丰控股",
+      "streak": 3,
       "last_group": "风险回避池",
       "last_score": 46.9,
       "last_theme": "其他龙虎榜异动"
     },
-    "300164": {
-      "name": "通源石油",
-      "streak": 2,
+    "002879": {
+      "name": "长缆科技",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 44.2,
+      "last_score": 41.7,
       "last_theme": "其他龙虎榜异动"
     },
-    "002515": {
-      "name": "金字火腿",
-      "streak": 2,
+    "001258": {
+      "name": "立新能源",
+      "streak": 3,
       "last_group": "风险回避池",
-      "last_score": 34.4,
+      "last_score": 41.5,
+      "last_theme": "新能源/电力设备"
+    },
+    "000779": {
+      "name": "甘咨询",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 35.9,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002759": {
+      "name": "ST天际",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 33.1,
       "last_theme": "其他龙虎榜异动"
     }
   },
-  "funds": {}
+  "funds": {
+    "场外基金:001717": {
+      "name": "工银前沿医疗股票A",
+      "streak": 1,
+      "last_group": "趋势观察池",
+      "last_score": 74.7,
+      "last_theme": "医药/医疗"
+    },
+    "场外基金:003095": {
+      "name": "中欧医疗健康混合A",
+      "streak": 1,
+      "last_group": "趋势观察池",
+      "last_score": 74.0,
+      "last_theme": "医药/医疗"
+    },
+    "ETF:159929": {
+      "name": "医药ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 71.2,
+      "last_theme": "医药/医疗"
+    },
+    "ETF:512170": {
+      "name": "医疗ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 70.8,
+      "last_theme": "医药/医疗"
+    },
+    "ETF:512010": {
+      "name": "医药ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 70.8,
+      "last_theme": "医药/医疗"
+    },
+    "场外基金:005669": {
+      "name": "前海开源公用事业股票",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 61.5,
+      "last_theme": "新能源/电力设备"
+    },
+    "场外基金:011329": {
+      "name": "景顺长城新能源产业股票A",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 49.6,
+      "last_theme": "新能源/电力设备"
+    },
+    "ETF:515790": {
+      "name": "光伏ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 49.2,
+      "last_theme": "新能源/电力设备"
+    },
+    "ETF:516160": {
+      "name": "新能源ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 49.0,
+      "last_theme": "新能源/电力设备"
+    },
+    "ETF:159875": {
+      "name": "新能源ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 49.0,
+      "last_theme": "新能源/电力设备"
+    }
+  }
 }
