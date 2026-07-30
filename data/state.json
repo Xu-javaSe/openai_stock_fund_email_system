@@ -1,114 +1,106 @@
 {
-  "last_run": "2026-07-29 16:48:25",
-  "last_trade_date": "2026-07-29",
-  "last_mode": "full",
+  "last_run": "2026-07-30 14:32:47",
+  "last_trade_date": "2026-07-30",
+  "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 40,
-      "last_linkage": "联动中",
-      "last_avg_score": 57.3,
-      "last_count": 6
+      "streak": 41,
+      "last_linkage": "联动强",
+      "last_avg_score": 64.1,
+      "last_count": 11
     },
     "软件/网络安全": {
-      "streak": 1,
+      "streak": 2,
       "last_linkage": "孤立异动",
-      "last_avg_score": 64.5,
+      "last_avg_score": 80.0,
       "last_count": 1
     }
   },
   "stocks": {
-    "002612": {
-      "name": "朗姿股份",
+    "603580": {
+      "name": "艾艾精工",
       "streak": 1,
-      "last_group": "突破确认池",
-      "last_score": 76,
+      "last_group": "低吸观察池",
+      "last_score": 86.0,
       "last_theme": "其他龙虎榜异动"
     },
-    "002141": {
-      "name": "贤丰控股",
-      "streak": 1,
-      "last_group": "只看不追池",
-      "last_score": 68.3,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002212": {
-      "name": "天融信",
-      "streak": 1,
-      "last_group": "突破确认池",
-      "last_score": 68.3,
+    "002498": {
+      "name": "汉缆股份",
+      "streak": 2,
+      "last_group": "低吸观察池",
+      "last_score": 80.6,
       "last_theme": "其他龙虎榜异动"
     },
     "002558": {
       "name": "巨人网络",
-      "streak": 1,
+      "streak": 2,
       "last_group": "只看不追池",
-      "last_score": 64.5,
+      "last_score": 80.0,
       "last_theme": "软件/网络安全"
     },
-    "002498": {
-      "name": "汉缆股份",
+    "600733": {
+      "name": "北汽蓝谷",
       "streak": 1,
-      "last_group": "风险回避池",
-      "last_score": 57,
+      "last_group": "只看不追池",
+      "last_score": 76,
       "last_theme": "其他龙虎榜异动"
     },
-    "002580": {
-      "name": "圣阳股份",
+    "002612": {
+      "name": "朗姿股份",
+      "streak": 2,
+      "last_group": "突破确认池",
+      "last_score": 76,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002212": {
+      "name": "天融信",
+      "streak": 2,
+      "last_group": "只看不追池",
+      "last_score": 74.5,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002141": {
+      "name": "贤丰控股",
+      "streak": 2,
+      "last_group": "只看不追池",
+      "last_score": 70.3,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "603221": {
+      "name": "爱丽家居",
       "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 44.6,
+      "last_score": 58,
       "last_theme": "其他龙虎榜异动"
     },
     "000636": {
       "name": "风华高科",
+      "streak": 2,
+      "last_group": "风险回避池",
+      "last_score": 50.3,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "600693": {
+      "name": "东百集团",
       "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 29.7,
+      "last_score": 48.4,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002580": {
+      "name": "圣阳股份",
+      "streak": 2,
+      "last_group": "风险回避池",
+      "last_score": 46.6,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "603459": {
+      "name": "红板科技",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 38.5,
       "last_theme": "其他龙虎榜异动"
     }
   },
-  "funds": {
-    "场外基金:012733": {
-      "name": "国泰中证全指软件ETF联接A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 49.6,
-      "last_theme": "软件/网络安全"
-    },
-    "ETF:515230": {
-      "name": "软件ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 49.3,
-      "last_theme": "软件/网络安全"
-    },
-    "ETF:159852": {
-      "name": "软件ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 49.1,
-      "last_theme": "软件/网络安全"
-    },
-    "ETF:512720": {
-      "name": "计算机ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 48.0,
-      "last_theme": "软件/网络安全"
-    },
-    "场外基金:001409": {
-      "name": "工银互联网加股票",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 46.1,
-      "last_theme": "软件/网络安全"
-    },
-    "场外基金:006751": {
-      "name": "富国互联科技股票A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 44.0,
-      "last_theme": "软件/网络安全"
-    }
-  }
+  "funds": {}
 }
