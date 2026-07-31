@@ -1,121 +1,119 @@
 {
-  "last_run": "2026-07-30 16:35:36",
-  "last_trade_date": "2026-07-30",
-  "last_mode": "full",
+  "last_run": "2026-07-31 14:49:35",
+  "last_trade_date": "2026-07-31",
+  "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 42,
+      "streak": 43,
       "last_linkage": "联动中",
-      "last_avg_score": 52.9,
-      "last_count": 7
+      "last_avg_score": 54.6,
+      "last_count": 11
     },
     "软件/网络安全": {
-      "streak": 3,
+      "streak": 4,
       "last_linkage": "孤立异动",
-      "last_avg_score": 71.7,
+      "last_avg_score": 81.3,
+      "last_count": 1
+    },
+    "新能源/电力设备": {
+      "streak": 1,
+      "last_linkage": "孤立异动",
+      "last_avg_score": 75.7,
       "last_count": 1
     }
   },
   "stocks": {
-    "002946": {
-      "name": "新乳业",
-      "streak": 1,
-      "last_group": "低吸观察池",
-      "last_score": 81.3,
-      "last_theme": "其他龙虎榜异动"
-    },
     "000948": {
       "name": "南天信息",
-      "streak": 1,
-      "last_group": "只看不追池",
-      "last_score": 71.7,
+      "streak": 2,
+      "last_group": "突破确认池",
+      "last_score": 81.3,
       "last_theme": "软件/网络安全"
+    },
+    "002946": {
+      "name": "新乳业",
+      "streak": 2,
+      "last_group": "突破确认池",
+      "last_score": 77.7,
+      "last_theme": "其他龙虎榜异动"
     },
     "002258": {
       "name": "利尔化学",
+      "streak": 2,
+      "last_group": "低吸观察池",
+      "last_score": 76.6,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "603556": {
+      "name": "海兴电力",
       "streak": 1,
-      "last_group": "突破确认池",
-      "last_score": 68.5,
+      "last_group": "低吸观察池",
+      "last_score": 75.7,
+      "last_theme": "新能源/电力设备"
+    },
+    "605068": {
+      "name": "明新旭腾",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 73.6,
       "last_theme": "其他龙虎榜异动"
     },
     "000566": {
       "name": "海南海药",
-      "streak": 1,
+      "streak": 2,
       "last_group": "只看不追池",
       "last_score": 63.3,
       "last_theme": "其他龙虎榜异动"
     },
-    "002827": {
-      "name": "高争民爆",
+    "601003": {
+      "name": "柳钢股份",
       "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 52.6,
+      "last_score": 57,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "600199": {
+      "name": "金种子酒",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 56.2,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002827": {
+      "name": "高争民爆",
+      "streak": 2,
+      "last_group": "风险回避池",
+      "last_score": 47.2,
       "last_theme": "其他龙虎榜异动"
     },
     "002726": {
       "name": "ST龙大",
+      "streak": 2,
+      "last_group": "风险回避池",
+      "last_score": 43.3,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "603221": {
+      "name": "爱丽家居",
       "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 39.4,
+      "last_score": 40.0,
       "last_theme": "其他龙虎榜异动"
     },
     "300290": {
       "name": "ST荣科",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 35.5,
       "last_theme": "其他龙虎榜异动"
     },
     "001309": {
       "name": "德明利",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 29.7,
       "last_theme": "其他龙虎榜异动"
     }
   },
-  "funds": {
-    "ETF:515230": {
-      "name": "软件ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 59.4,
-      "last_theme": "软件/网络安全"
-    },
-    "场外基金:012733": {
-      "name": "国泰中证全指软件ETF联接A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 49.8,
-      "last_theme": "软件/网络安全"
-    },
-    "ETF:159852": {
-      "name": "软件ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 49.2,
-      "last_theme": "软件/网络安全"
-    },
-    "ETF:512720": {
-      "name": "计算机ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 48.1,
-      "last_theme": "软件/网络安全"
-    },
-    "场外基金:001409": {
-      "name": "工银互联网加股票",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 47.9,
-      "last_theme": "软件/网络安全"
-    },
-    "场外基金:006751": {
-      "name": "富国互联科技股票A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 44.4,
-      "last_theme": "软件/网络安全"
-    }
-  }
+  "funds": {}
 }
