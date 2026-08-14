@@ -1,204 +1,127 @@
 {
-  "last_run": "2026-08-13 15:41:59",
-  "last_trade_date": "2026-08-13",
-  "last_mode": "full",
+  "last_run": "2026-08-14 13:41:36",
+  "last_trade_date": "2026-08-14",
+  "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 62,
+      "streak": 63,
       "last_linkage": "联动强",
-      "last_avg_score": 67.3,
-      "last_count": 12
+      "last_avg_score": 65.3,
+      "last_count": 14
     },
-    "医药/医疗": {
-      "streak": 6,
+    "AI/算力/数据中心": {
+      "streak": 1,
       "last_linkage": "孤立异动",
-      "last_avg_score": 68.3,
-      "last_count": 1
-    },
-    "软件/网络安全": {
-      "streak": 2,
-      "last_linkage": "孤立异动",
-      "last_avg_score": 55.0,
+      "last_avg_score": 75.0,
       "last_count": 1
     }
   },
   "stocks": {
-    "002379": {
-      "name": "宏桥控股",
-      "streak": 2,
+    "002047": {
+      "name": "宝鹰股份",
+      "streak": 1,
       "last_group": "低吸观察池",
-      "last_score": 86.8,
+      "last_score": 80.9,
       "last_theme": "其他龙虎榜异动"
     },
-    "603399": {
-      "name": "永杉锂业",
-      "streak": 2,
+    "002396": {
+      "name": "星网锐捷",
+      "streak": 1,
       "last_group": "低吸观察池",
-      "last_score": 82.7,
+      "last_score": 79.0,
       "last_theme": "其他龙虎榜异动"
     },
-    "002491": {
-      "name": "通鼎互联",
-      "streak": 2,
+    "603191": {
+      "name": "望变电气",
+      "streak": 1,
       "last_group": "低吸观察池",
-      "last_score": 81.4,
+      "last_score": 77.6,
       "last_theme": "其他龙虎榜异动"
     },
-    "002552": {
-      "name": "宝鼎科技",
-      "streak": 2,
+    "605179": {
+      "name": "一鸣食品",
+      "streak": 1,
       "last_group": "低吸观察池",
-      "last_score": 78.2,
+      "last_score": 76.3,
       "last_theme": "其他龙虎榜异动"
     },
-    "002031": {
-      "name": "巨轮智能",
-      "streak": 2,
+    "000887": {
+      "name": "中鼎股份",
+      "streak": 1,
       "last_group": "只看不追池",
       "last_score": 76,
       "last_theme": "其他龙虎榜异动"
     },
-    "002229": {
-      "name": "鸿博股份",
-      "streak": 2,
+    "000692": {
+      "name": "惠天热电",
+      "streak": 1,
       "last_group": "只看不追池",
       "last_score": 76,
       "last_theme": "其他龙虎榜异动"
     },
-    "002173": {
-      "name": "创新医疗",
-      "streak": 2,
+    "603236": {
+      "name": "移远通信",
+      "streak": 1,
       "last_group": "只看不追池",
-      "last_score": 68.3,
-      "last_theme": "医药/医疗"
+      "last_score": 75,
+      "last_theme": "AI/算力/数据中心"
     },
-    "600272": {
-      "name": "开开实业",
-      "streak": 2,
-      "last_group": "只看不追池",
-      "last_score": 66.4,
+    "603330": {
+      "name": "天洋新材",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 66.9,
       "last_theme": "其他龙虎榜异动"
     },
-    "002792": {
-      "name": "通宇通讯",
-      "streak": 2,
+    "605286": {
+      "name": "同力天启",
+      "streak": 1,
       "last_group": "风险回避池",
       "last_score": 58,
       "last_theme": "其他龙虎榜异动"
     },
-    "603887": {
-      "name": "城地香江",
-      "streak": 2,
+    "001260": {
+      "name": "坤泰股份",
+      "streak": 1,
       "last_group": "风险回避池",
       "last_score": 58.0,
       "last_theme": "其他龙虎榜异动"
     },
-    "600667": {
-      "name": "太极实业",
-      "streak": 2,
+    "301529": {
+      "name": "福赛科技",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 55,
-      "last_theme": "软件/网络安全"
-    },
-    "002437": {
-      "name": "誉衡药业",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 51.4,
+      "last_score": 58,
       "last_theme": "其他龙虎榜异动"
     },
-    "603897": {
-      "name": "长城科技",
-      "streak": 2,
+    "603696": {
+      "name": "安记食品",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 48.0,
+      "last_score": 57.5,
       "last_theme": "其他龙虎榜异动"
     },
-    "601886": {
-      "name": "江河集团",
-      "streak": 2,
+    "600396": {
+      "name": "华电辽能",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 44.2,
+      "last_score": 55.4,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002329": {
+      "name": "皇氏集团",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 48.9,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002229": {
+      "name": "鸿博股份",
+      "streak": 3,
+      "last_group": "风险回避池",
+      "last_score": 45.5,
       "last_theme": "其他龙虎榜异动"
     }
   },
-  "funds": {
-    "ETF:159929": {
-      "name": "医药ETF",
-      "streak": 1,
-      "last_group": "趋势观察池",
-      "last_score": 77.8,
-      "last_theme": "医药/医疗"
-    },
-    "ETF:512010": {
-      "name": "医药ETF",
-      "streak": 1,
-      "last_group": "趋势观察池",
-      "last_score": 77.8,
-      "last_theme": "医药/医疗"
-    },
-    "ETF:512720": {
-      "name": "计算机ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 68.6,
-      "last_theme": "软件/网络安全"
-    },
-    "场外基金:001409": {
-      "name": "工银互联网加股票",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 66.8,
-      "last_theme": "软件/网络安全"
-    },
-    "场外基金:001717": {
-      "name": "工银前沿医疗股票A",
-      "streak": 1,
-      "last_group": "高位谨慎池",
-      "last_score": 66.3,
-      "last_theme": "医药/医疗"
-    },
-    "ETF:512170": {
-      "name": "医疗ETF",
-      "streak": 1,
-      "last_group": "高位谨慎池",
-      "last_score": 65.8,
-      "last_theme": "医药/医疗"
-    },
-    "场外基金:003095": {
-      "name": "中欧医疗健康混合A",
-      "streak": 1,
-      "last_group": "高位谨慎池",
-      "last_score": 62.2,
-      "last_theme": "医药/医疗"
-    },
-    "场外基金:006751": {
-      "name": "富国互联科技股票A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 59.5,
-      "last_theme": "软件/网络安全"
-    },
-    "ETF:515230": {
-      "name": "软件ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 59.1,
-      "last_theme": "软件/网络安全"
-    },
-    "ETF:159852": {
-      "name": "软件ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 59.0,
-      "last_theme": "软件/网络安全"
-    },
-    "场外基金:012733": {
-      "name": "国泰中证全指软件ETF联接A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 51.1,
-      "last_theme": "软件/网络安全"
-    }
-  }
+  "funds": {}
 }
