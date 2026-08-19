@@ -1,77 +1,104 @@
 {
-  "last_run": "2026-08-18 14:51:19",
-  "last_trade_date": "2026-08-18",
-  "last_mode": "full",
+  "last_run": "2026-08-19 12:41:59",
+  "last_trade_date": "2026-08-19",
+  "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 68,
+      "streak": 69,
+      "last_linkage": "联动强",
+      "last_avg_score": 70.1,
+      "last_count": 10
+    },
+    "芯片/半导体材料": {
+      "streak": 1,
       "last_linkage": "联动中",
-      "last_avg_score": 53.6,
-      "last_count": 9
+      "last_avg_score": 85.3,
+      "last_count": 2
     }
   },
   "stocks": {
-    "002436": {
-      "name": "兴森科技",
-      "streak": 2,
+    "600353": {
+      "name": "旭光电子",
+      "streak": 1,
       "last_group": "低吸观察池",
-      "last_score": 82.8,
+      "last_score": 86.4,
+      "last_theme": "芯片/半导体材料"
+    },
+    "688503": {
+      "name": "聚和材料",
+      "streak": 1,
+      "last_group": "低吸观察池",
+      "last_score": 84.3,
+      "last_theme": "芯片/半导体材料"
+    },
+    "000620": {
+      "name": "盈新发展",
+      "streak": 1,
+      "last_group": "低吸观察池",
+      "last_score": 81.8,
       "last_theme": "其他龙虎榜异动"
     },
-    "002437": {
-      "name": "誉衡药业",
-      "streak": 4,
+    "002515": {
+      "name": "金字火腿",
+      "streak": 1,
+      "last_group": "低吸观察池",
+      "last_score": 80.8,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002081": {
+      "name": "金螳螂",
+      "streak": 1,
       "last_group": "只看不追池",
-      "last_score": 65.8,
+      "last_score": 73.0,
       "last_theme": "其他龙虎榜异动"
     },
-    "601886": {
-      "name": "江河集团",
-      "streak": 2,
-      "last_group": "突破确认池",
-      "last_score": 56.5,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "300534": {
-      "name": "陇神戎发",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 51.5,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "300333": {
-      "name": "兆日科技",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 51.3,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002353": {
-      "name": "杰瑞股份",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 48.3,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "600186": {
-      "name": "莲花控股",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 43.5,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002172": {
-      "name": "澳洋健康",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 42.0,
+    "603089": {
+      "name": "正裕工业",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 71.1,
       "last_theme": "其他龙虎榜异动"
     },
     "600272": {
       "name": "开开实业",
-      "streak": 4,
+      "streak": 5,
+      "last_group": "只看不追池",
+      "last_score": 70.7,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "300345": {
+      "name": "华民股份",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 68.8,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002248": {
+      "name": "华东数控",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 68.6,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "003032": {
+      "name": "传智教育",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 67.5,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "605179": {
+      "name": "一鸣食品",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 64.6,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002747": {
+      "name": "埃斯顿",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 41.1,
+      "last_score": 54.3,
       "last_theme": "其他龙虎榜异动"
     }
   },
