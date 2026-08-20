@@ -1,149 +1,72 @@
 {
-  "last_run": "2026-08-19 14:52:25",
-  "last_trade_date": "2026-08-19",
-  "last_mode": "full",
+  "last_run": "2026-08-20 12:42:17",
+  "last_trade_date": "2026-08-20",
+  "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 70,
+      "streak": 71,
       "last_linkage": "联动强",
-      "last_avg_score": 69.2,
-      "last_count": 10
-    },
-    "芯片/半导体材料": {
-      "streak": 2,
-      "last_linkage": "联动中",
-      "last_avg_score": 85.3,
-      "last_count": 2
+      "last_avg_score": 65.3,
+      "last_count": 8
     }
   },
   "stocks": {
-    "600353": {
-      "name": "旭光电子",
-      "streak": 2,
+    "600313": {
+      "name": "农发种业",
+      "streak": 1,
       "last_group": "低吸观察池",
-      "last_score": 86.4,
-      "last_theme": "芯片/半导体材料"
-    },
-    "688503": {
-      "name": "聚和材料",
-      "streak": 2,
-      "last_group": "低吸观察池",
-      "last_score": 84.3,
-      "last_theme": "芯片/半导体材料"
-    },
-    "002515": {
-      "name": "金字火腿",
-      "streak": 2,
-      "last_group": "低吸观察池",
-      "last_score": 80.8,
+      "last_score": 79.7,
       "last_theme": "其他龙虎榜异动"
     },
-    "000620": {
-      "name": "盈新发展",
-      "streak": 2,
-      "last_group": "只看不追池",
+    "603580": {
+      "name": "艾艾精工",
+      "streak": 1,
+      "last_group": "突破确认池",
       "last_score": 76,
       "last_theme": "其他龙虎榜异动"
     },
-    "002081": {
-      "name": "金螳螂",
-      "streak": 2,
+    "000723": {
+      "name": "美锦能源",
+      "streak": 1,
       "last_group": "只看不追池",
-      "last_score": 73.0,
+      "last_score": 72.4,
       "last_theme": "其他龙虎榜异动"
     },
-    "603089": {
-      "name": "正裕工业",
-      "streak": 2,
-      "last_group": "只看不追池",
-      "last_score": 71.1,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "600272": {
-      "name": "开开实业",
-      "streak": 6,
-      "last_group": "只看不追池",
-      "last_score": 70.7,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "300345": {
-      "name": "华民股份",
-      "streak": 2,
-      "last_group": "只看不追池",
-      "last_score": 68.8,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002248": {
-      "name": "华东数控",
-      "streak": 2,
-      "last_group": "只看不追池",
-      "last_score": 68.6,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "605179": {
-      "name": "一鸣食品",
-      "streak": 2,
-      "last_group": "只看不追池",
-      "last_score": 64.6,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "003032": {
-      "name": "传智教育",
-      "streak": 2,
+    "001400": {
+      "name": "江顺科技",
+      "streak": 1,
       "last_group": "突破确认池",
-      "last_score": 63.9,
+      "last_score": 66.9,
       "last_theme": "其他龙虎榜异动"
     },
-    "002747": {
-      "name": "埃斯顿",
-      "streak": 2,
+    "600127": {
+      "name": "金健米业",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 66.9,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "000526": {
+      "name": "学大教育",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 56.5,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "600371": {
+      "name": "万向德农",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 54.3,
+      "last_score": 53.2,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "688152": {
+      "name": "麒麟信安",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 50.6,
       "last_theme": "其他龙虎榜异动"
     }
   },
-  "funds": {
-    "场外基金:013339": {
-      "name": "创金合信芯片产业股票A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 65.1,
-      "last_theme": "芯片/半导体材料"
-    },
-    "场外基金:014418": {
-      "name": "西部利得CES半导体芯片行业指数A",
-      "streak": 1,
-      "last_group": "高位谨慎池",
-      "last_score": 64.4,
-      "last_theme": "芯片/半导体材料"
-    },
-    "场外基金:008281": {
-      "name": "国泰CES半导体芯片ETF联接A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 63.3,
-      "last_theme": "芯片/半导体材料"
-    },
-    "ETF:159995": {
-      "name": "芯片ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 45.6,
-      "last_theme": "芯片/半导体材料"
-    },
-    "ETF:512480": {
-      "name": "半导体ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 45.6,
-      "last_theme": "芯片/半导体材料"
-    },
-    "ETF:588200": {
-      "name": "科创芯片ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 45.5,
-      "last_theme": "芯片/半导体材料"
-    }
-  }
+  "funds": {}
 }
