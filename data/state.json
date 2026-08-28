@@ -1,163 +1,106 @@
 {
-  "last_run": "2026-08-28 01:30:09",
-  "last_trade_date": "2026-08-28",
-  "last_mode": "full",
+  "last_run": "2026-08-29 00:28:33",
+  "last_trade_date": "2026-08-29",
+  "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 82,
-      "last_linkage": "联动强",
-      "last_avg_score": 70.1,
-      "last_count": 13
+      "streak": 83,
+      "last_linkage": "联动中",
+      "last_avg_score": 55.4,
+      "last_count": 11
     },
     "医药/医疗": {
-      "streak": 10,
-      "last_linkage": "联动弱",
-      "last_avg_score": 56.8,
-      "last_count": 2
+      "streak": 11,
+      "last_linkage": "孤立异动",
+      "last_avg_score": 71.5,
+      "last_count": 1
     }
   },
   "stocks": {
-    "002396": {
-      "name": "星网锐捷",
-      "streak": 2,
-      "last_group": "低吸观察池",
-      "last_score": 82.5,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "000962": {
-      "name": "东方钽业",
-      "streak": 2,
+    "600613": {
+      "name": "神奇制药",
+      "streak": 1,
       "last_group": "只看不追池",
-      "last_score": 80.4,
-      "last_theme": "其他龙虎榜异动"
+      "last_score": 71.5,
+      "last_theme": "医药/医疗"
     },
-    "002636": {
-      "name": "金安国纪",
-      "streak": 4,
+    "603395": {
+      "name": "红四方",
+      "streak": 1,
       "last_group": "只看不追池",
-      "last_score": 79.2,
+      "last_score": 69.2,
       "last_theme": "其他龙虎榜异动"
     },
-    "600127": {
-      "name": "金健米业",
-      "streak": 2,
+    "002886": {
+      "name": "沃特股份",
+      "streak": 1,
       "last_group": "突破确认池",
-      "last_score": 76,
+      "last_score": 67.0,
       "last_theme": "其他龙虎榜异动"
     },
-    "001309": {
-      "name": "德明利",
-      "streak": 2,
-      "last_group": "只看不追池",
-      "last_score": 75.6,
+    "600654": {
+      "name": "中安科",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 66.1,
       "last_theme": "其他龙虎榜异动"
     },
-    "001268": {
-      "name": "联合精密",
-      "streak": 2,
-      "last_group": "只看不追池",
-      "last_score": 74.4,
+    "001232": {
+      "name": "嘉立创",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 65.8,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "000712": {
+      "name": "锦龙股份",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 64.5,
       "last_theme": "其他龙虎榜异动"
     },
     "002437": {
       "name": "誉衡药业",
-      "streak": 4,
+      "streak": 5,
       "last_group": "只看不追池",
-      "last_score": 71.9,
+      "last_score": 63.9,
       "last_theme": "其他龙虎榜异动"
     },
-    "300189": {
-      "name": "神农种业",
-      "streak": 4,
-      "last_group": "只看不追池",
-      "last_score": 71.1,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "603618": {
-      "name": "杭电股份",
-      "streak": 2,
-      "last_group": "突破确认池",
-      "last_score": 70.4,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002536": {
-      "name": "飞龙股份",
-      "streak": 4,
-      "last_group": "突破确认池",
-      "last_score": 64.7,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "301520": {
-      "name": "万邦医药",
-      "streak": 6,
-      "last_group": "只看不追池",
-      "last_score": 64.6,
-      "last_theme": "医药/医疗"
-    },
-    "600969": {
-      "name": "郴电国际",
-      "streak": 2,
+    "603396": {
+      "name": "金辰股份",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 58,
+      "last_score": 57,
       "last_theme": "其他龙虎榜异动"
     },
-    "600479": {
-      "name": "千金药业",
-      "streak": 2,
+    "000017": {
+      "name": "深中华A",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 56.3,
+      "last_score": 42.6,
       "last_theme": "其他龙虎榜异动"
     },
-    "002491": {
-      "name": "通鼎互联",
-      "streak": 2,
+    "002942": {
+      "name": "新农股份",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 50.6,
+      "last_score": 42.2,
       "last_theme": "其他龙虎榜异动"
     },
-    "002412": {
-      "name": "汉森制药",
-      "streak": 4,
+    "600127": {
+      "name": "金健米业",
+      "streak": 3,
       "last_group": "风险回避池",
-      "last_score": 48.9,
-      "last_theme": "医药/医疗"
+      "last_score": 41.1,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "000062": {
+      "name": "深圳华强",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 29.9,
+      "last_theme": "其他龙虎榜异动"
     }
   },
-  "funds": {
-    "ETF:512170": {
-      "name": "医疗ETF",
-      "streak": 1,
-      "last_group": "回调低吸池",
-      "last_score": 74.3,
-      "last_theme": "医药/医疗"
-    },
-    "ETF:159929": {
-      "name": "医药ETF",
-      "streak": 1,
-      "last_group": "回调低吸池",
-      "last_score": 63.7,
-      "last_theme": "医药/医疗"
-    },
-    "ETF:512010": {
-      "name": "医药ETF",
-      "streak": 1,
-      "last_group": "回调低吸池",
-      "last_score": 63.2,
-      "last_theme": "医药/医疗"
-    },
-    "场外基金:001717": {
-      "name": "工银前沿医疗股票A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 60.8,
-      "last_theme": "医药/医疗"
-    },
-    "场外基金:003095": {
-      "name": "中欧医疗健康混合A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 58.7,
-      "last_theme": "医药/医疗"
-    }
-  }
+  "funds": {}
 }
