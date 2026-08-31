@@ -1,16 +1,16 @@
 {
-  "last_run": "2026-08-31 18:43:23",
+  "last_run": "2026-08-31 21:14:13",
   "last_trade_date": "2026-08-31",
-  "last_mode": "stock",
+  "last_mode": "full",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 85,
+      "streak": 86,
       "last_linkage": "联动中",
       "last_avg_score": 57.7,
       "last_count": 18
     },
     "AI/算力/数据中心": {
-      "streak": 1,
+      "streak": 2,
       "last_linkage": "孤立异动",
       "last_avg_score": 71.6,
       "last_count": 1
@@ -19,137 +19,180 @@
   "stocks": {
     "600371": {
       "name": "万向德农",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 72.7,
       "last_theme": "其他龙虎榜异动"
     },
     "002008": {
       "name": "大族激光",
-      "streak": 1,
+      "streak": 2,
       "last_group": "只看不追池",
       "last_score": 72.4,
       "last_theme": "其他龙虎榜异动"
     },
     "000977": {
       "name": "浪潮信息",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 71.6,
       "last_theme": "AI/算力/数据中心"
     },
     "603459": {
       "name": "红板科技",
-      "streak": 1,
+      "streak": 2,
       "last_group": "只看不追池",
       "last_score": 68.2,
       "last_theme": "其他龙虎榜异动"
     },
     "601086": {
       "name": "国芳集团",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 67.3,
       "last_theme": "其他龙虎榜异动"
     },
     "000560": {
       "name": "我爱我家",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 66.8,
       "last_theme": "其他龙虎榜异动"
     },
     "600551": {
       "name": "时代出版",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 62.3,
       "last_theme": "其他龙虎榜异动"
     },
     "600691": {
       "name": "潞化科技",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 61.7,
       "last_theme": "其他龙虎榜异动"
     },
     "002396": {
       "name": "星网锐捷",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 59.9,
       "last_theme": "其他龙虎榜异动"
     },
     "301655": {
       "name": "绿控传动",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 57.4,
       "last_theme": "其他龙虎榜异动"
     },
     "000712": {
       "name": "锦龙股份",
-      "streak": 3,
+      "streak": 4,
       "last_group": "风险回避池",
       "last_score": 57,
       "last_theme": "其他龙虎榜异动"
     },
     "000890": {
       "name": "法尔胜",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 57,
       "last_theme": "其他龙虎榜异动"
     },
     "002942": {
       "name": "新农股份",
-      "streak": 3,
+      "streak": 4,
       "last_group": "风险回避池",
       "last_score": 57,
       "last_theme": "其他龙虎榜异动"
     },
     "002418": {
       "name": "康盛股份",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 56.0,
       "last_theme": "其他龙虎榜异动"
     },
     "002886": {
       "name": "沃特股份",
-      "streak": 3,
+      "streak": 4,
       "last_group": "风险回避池",
       "last_score": 50.3,
       "last_theme": "其他龙虎榜异动"
     },
     "301399": {
       "name": "英特科技",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 45.0,
       "last_theme": "其他龙虎榜异动"
     },
     "002528": {
       "name": "*ST英飞",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 44.2,
       "last_theme": "其他龙虎榜异动"
     },
     "002855": {
       "name": "捷荣技术",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 42.4,
       "last_theme": "其他龙虎榜异动"
     },
     "003005": {
       "name": "竞业达",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 41.2,
       "last_theme": "其他龙虎榜异动"
     }
   },
-  "funds": {}
+  "funds": {
+    "场外基金:001409": {
+      "name": "工银互联网加股票",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 72.3,
+      "last_theme": "AI/算力/数据中心"
+    },
+    "场外基金:006751": {
+      "name": "富国互联科技股票A",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 69.7,
+      "last_theme": "AI/算力/数据中心"
+    },
+    "场外基金:008086": {
+      "name": "华夏中证5G通信主题ETF联接A",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 68.8,
+      "last_theme": "AI/算力/数据中心"
+    },
+    "ETF:516510": {
+      "name": "云计算ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 65.2,
+      "last_theme": "AI/算力/数据中心"
+    },
+    "ETF:515880": {
+      "name": "通信ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 57.0,
+      "last_theme": "AI/算力/数据中心"
+    },
+    "ETF:159819": {
+      "name": "人工智能ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 48.5,
+      "last_theme": "AI/算力/数据中心"
+    }
+  }
 }
