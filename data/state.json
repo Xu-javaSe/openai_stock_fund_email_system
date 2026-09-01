@@ -1,10 +1,10 @@
 {
-  "last_run": "2026-09-01 17:18:21",
+  "last_run": "2026-09-01 19:24:57",
   "last_trade_date": "2026-09-01",
-  "last_mode": "stock",
+  "last_mode": "full",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 87,
+      "streak": 88,
       "last_linkage": "联动中",
       "last_avg_score": 57.6,
       "last_count": 19
@@ -13,133 +13,133 @@
   "stocks": {
     "300911": {
       "name": "亿田智能",
-      "streak": 1,
+      "streak": 2,
       "last_group": "低吸观察池",
       "last_score": 84.6,
       "last_theme": "其他龙虎榜异动"
     },
     "603395": {
       "name": "红四方",
-      "streak": 1,
+      "streak": 2,
       "last_group": "只看不追池",
       "last_score": 73.6,
       "last_theme": "其他龙虎榜异动"
     },
     "002165": {
       "name": "红宝丽",
-      "streak": 1,
+      "streak": 2,
       "last_group": "只看不追池",
       "last_score": 73.3,
       "last_theme": "其他龙虎榜异动"
     },
     "002015": {
       "name": "协鑫能科",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 70.6,
       "last_theme": "其他龙虎榜异动"
     },
     "003040": {
       "name": "楚天龙",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 70.6,
       "last_theme": "其他龙虎榜异动"
     },
     "605577": {
       "name": "龙版传媒",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 65.7,
       "last_theme": "其他龙虎榜异动"
     },
     "600892": {
       "name": "大晟文化",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 62.6,
       "last_theme": "其他龙虎榜异动"
     },
     "603721": {
       "name": "中广天择",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 61.8,
       "last_theme": "其他龙虎榜异动"
     },
     "001330": {
       "name": "博纳影业",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 57,
       "last_theme": "其他龙虎榜异动"
     },
     "002909": {
       "name": "集泰股份",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 57,
       "last_theme": "其他龙虎榜异动"
     },
     "603533": {
       "name": "掌阅科技",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 56.0,
       "last_theme": "其他龙虎榜异动"
     },
     "000892": {
       "name": "欢瑞世纪",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 54.0,
       "last_theme": "其他龙虎榜异动"
     },
     "300550": {
       "name": "和仁科技",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 51.5,
       "last_theme": "其他龙虎榜异动"
     },
     "600127": {
       "name": "金健米业",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 46.9,
       "last_theme": "其他龙虎榜异动"
     },
     "600103": {
       "name": "青山纸业",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 45.5,
       "last_theme": "其他龙虎榜异动"
     },
     "002418": {
       "name": "康盛股份",
-      "streak": 3,
+      "streak": 4,
       "last_group": "风险回避池",
       "last_score": 44.7,
       "last_theme": "其他龙虎榜异动"
     },
     "600121": {
       "name": "郑州煤电",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 41.5,
       "last_theme": "其他龙虎榜异动"
     },
     "000560": {
       "name": "我爱我家",
-      "streak": 3,
+      "streak": 4,
       "last_group": "风险回避池",
       "last_score": 39.6,
       "last_theme": "其他龙虎榜异动"
     },
     "605188": {
       "name": "国光连锁",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 37.3,
       "last_theme": "其他龙虎榜异动"
