@@ -1,61 +1,75 @@
 {
-  "last_run": "2026-09-03 16:47:46",
+  "last_run": "2026-09-03 18:57:28",
   "last_trade_date": "2026-09-03",
-  "last_mode": "stock",
+  "last_mode": "full",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 91,
+      "streak": 92,
       "last_linkage": "联动强",
-      "last_avg_score": 60.8,
-      "last_count": 7
+      "last_avg_score": 61.7,
+      "last_count": 9
     }
   },
   "stocks": {
     "002536": {
       "name": "飞龙股份",
-      "streak": 3,
+      "streak": 4,
       "last_group": "突破确认池",
       "last_score": 77.1,
       "last_theme": "其他龙虎榜异动"
     },
+    "600172": {
+      "name": "黄河旋风",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 73.8,
+      "last_theme": "其他龙虎榜异动"
+    },
     "003018": {
       "name": "金富科技",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 69.7,
       "last_theme": "其他龙虎榜异动"
     },
     "002980": {
       "name": "华盛昌",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 66.9,
       "last_theme": "其他龙虎榜异动"
     },
     "002300": {
       "name": "太阳电缆",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 62.9,
       "last_theme": "其他龙虎榜异动"
     },
+    "600828": {
+      "name": "茂业商业",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 57,
+      "last_theme": "其他龙虎榜异动"
+    },
     "002201": {
       "name": "九鼎新材",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 51.6,
       "last_theme": "其他龙虎榜异动"
     },
     "002297": {
       "name": "博云新材",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
-      "last_score": 49.0,
+      "last_score": 48.4,
       "last_theme": "其他龙虎榜异动"
     },
     "300189": {
       "name": "神农种业",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 48.1,
       "last_theme": "其他龙虎榜异动"
