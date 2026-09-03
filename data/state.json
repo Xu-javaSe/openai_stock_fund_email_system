@@ -1,135 +1,65 @@
 {
-  "last_run": "2026-09-02 18:58:21",
-  "last_trade_date": "2026-09-02",
-  "last_mode": "full",
+  "last_run": "2026-09-03 16:47:46",
+  "last_trade_date": "2026-09-03",
+  "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 90,
-      "last_linkage": "联动中",
-      "last_avg_score": 56.9,
-      "last_count": 10
-    },
-    "医药/医疗": {
-      "streak": 1,
-      "last_linkage": "孤立异动",
-      "last_avg_score": 59.6,
-      "last_count": 1
+      "streak": 91,
+      "last_linkage": "联动强",
+      "last_avg_score": 60.8,
+      "last_count": 7
     }
   },
   "stocks": {
-    "000628": {
-      "name": "高新发展",
-      "streak": 2,
-      "last_group": "突破确认池",
-      "last_score": 67.6,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "000635": {
-      "name": "英力特",
-      "streak": 2,
-      "last_group": "突破确认池",
-      "last_score": 66.4,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "603221": {
-      "name": "爱丽家居",
-      "streak": 1,
-      "last_group": "突破确认池",
-      "last_score": 66.0,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002886": {
-      "name": "沃特股份",
-      "streak": 2,
-      "last_group": "突破确认池",
-      "last_score": 64.4,
-      "last_theme": "其他龙虎榜异动"
-    },
     "002536": {
       "name": "飞龙股份",
-      "streak": 2,
+      "streak": 3,
       "last_group": "突破确认池",
-      "last_score": 63.0,
+      "last_score": 77.1,
       "last_theme": "其他龙虎榜异动"
     },
-    "600830": {
-      "name": "香溢融通",
-      "streak": 1,
-      "last_group": "突破确认池",
-      "last_score": 61.2,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "603207": {
-      "name": "小方制药",
+    "003018": {
+      "name": "金富科技",
       "streak": 1,
       "last_group": "突破确认池",
-      "last_score": 59.6,
-      "last_theme": "医药/医疗"
-    },
-    "002855": {
-      "name": "捷荣技术",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 57,
+      "last_score": 69.7,
       "last_theme": "其他龙虎榜异动"
     },
-    "003040": {
-      "name": "楚天龙",
-      "streak": 4,
-      "last_group": "风险回避池",
-      "last_score": 42.8,
+    "002980": {
+      "name": "华盛昌",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 66.9,
       "last_theme": "其他龙虎榜异动"
     },
-    "601566": {
-      "name": "九牧王",
+    "002300": {
+      "name": "太阳电缆",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 62.9,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002201": {
+      "name": "九鼎新材",
       "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 41.2,
+      "last_score": 51.6,
       "last_theme": "其他龙虎榜异动"
     },
-    "600540": {
-      "name": "新赛股份",
+    "002297": {
+      "name": "博云新材",
       "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 38.9,
+      "last_score": 49.0,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "300189": {
+      "name": "神农种业",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 48.1,
       "last_theme": "其他龙虎榜异动"
     }
   },
-  "funds": {
-    "ETF:512170": {
-      "name": "医疗ETF",
-      "streak": 1,
-      "last_group": "回调低吸池",
-      "last_score": 64.1,
-      "last_theme": "医药/医疗"
-    },
-    "ETF:159929": {
-      "name": "医药ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 63.7,
-      "last_theme": "医药/医疗"
-    },
-    "ETF:512010": {
-      "name": "医药ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 63.3,
-      "last_theme": "医药/医疗"
-    },
-    "场外基金:001717": {
-      "name": "工银前沿医疗股票A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 60.7,
-      "last_theme": "医药/医疗"
-    },
-    "场外基金:003095": {
-      "name": "中欧医疗健康混合A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 58.5,
-      "last_theme": "医药/医疗"
-    }
-  }
+  "funds": {}
 }
