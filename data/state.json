@@ -1,77 +1,49 @@
 {
-  "last_run": "2026-09-03 18:57:28",
-  "last_trade_date": "2026-09-03",
-  "last_mode": "full",
+  "last_run": "2026-09-04 16:43:23",
+  "last_trade_date": "2026-09-04",
+  "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 92,
+      "streak": 93,
       "last_linkage": "联动强",
-      "last_avg_score": 61.7,
-      "last_count": 9
+      "last_avg_score": 73.1,
+      "last_count": 5
     }
   },
   "stocks": {
-    "002536": {
-      "name": "飞龙股份",
-      "streak": 4,
-      "last_group": "突破确认池",
-      "last_score": 77.1,
+    "003040": {
+      "name": "楚天龙",
+      "streak": 1,
+      "last_group": "低吸观察池",
+      "last_score": 92.9,
       "last_theme": "其他龙虎榜异动"
     },
-    "600172": {
-      "name": "黄河旋风",
+    "002354": {
+      "name": "天娱数科",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 76,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "000592": {
+      "name": "平潭发展",
       "streak": 1,
       "last_group": "突破确认池",
-      "last_score": 73.8,
+      "last_score": 73.7,
       "last_theme": "其他龙虎榜异动"
     },
-    "003018": {
-      "name": "金富科技",
-      "streak": 2,
+    "000876": {
+      "name": "新希望",
+      "streak": 1,
       "last_group": "突破确认池",
-      "last_score": 69.7,
+      "last_score": 65.0,
       "last_theme": "其他龙虎榜异动"
     },
-    "002980": {
-      "name": "华盛昌",
-      "streak": 2,
-      "last_group": "突破确认池",
-      "last_score": 66.9,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002300": {
-      "name": "太阳电缆",
-      "streak": 2,
-      "last_group": "突破确认池",
-      "last_score": 62.9,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "600828": {
-      "name": "茂业商业",
+    "002104": {
+      "name": "恒宝股份",
       "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 57,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002201": {
-      "name": "九鼎新材",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 51.6,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002297": {
-      "name": "博云新材",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 48.4,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "300189": {
-      "name": "神农种业",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 48.1,
+      "last_score": 58,
       "last_theme": "其他龙虎榜异动"
     }
   },
