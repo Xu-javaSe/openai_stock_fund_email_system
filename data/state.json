@@ -1,51 +1,142 @@
 {
-  "last_run": "2026-09-04 16:43:23",
+  "last_run": "2026-09-04 18:57:18",
   "last_trade_date": "2026-09-04",
-  "last_mode": "stock",
+  "last_mode": "full",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 93,
+      "streak": 94,
       "last_linkage": "联动强",
-      "last_avg_score": 73.1,
-      "last_count": 5
+      "last_avg_score": 65.8,
+      "last_count": 10
+    },
+    "软件/网络安全": {
+      "streak": 1,
+      "last_linkage": "孤立异动",
+      "last_avg_score": 71.2,
+      "last_count": 1
     }
   },
   "stocks": {
     "003040": {
       "name": "楚天龙",
-      "streak": 1,
+      "streak": 2,
       "last_group": "低吸观察池",
       "last_score": 92.9,
       "last_theme": "其他龙虎榜异动"
     },
     "002354": {
       "name": "天娱数科",
-      "streak": 1,
+      "streak": 2,
       "last_group": "只看不追池",
       "last_score": 76,
       "last_theme": "其他龙虎榜异动"
     },
+    "603150": {
+      "name": "万朗磁塑",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 75.8,
+      "last_theme": "其他龙虎榜异动"
+    },
     "000592": {
       "name": "平潭发展",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 73.7,
       "last_theme": "其他龙虎榜异动"
     },
+    "605398": {
+      "name": "新炬网络",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 71.2,
+      "last_theme": "软件/网络安全"
+    },
     "000876": {
       "name": "新希望",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 65.0,
       "last_theme": "其他龙虎榜异动"
     },
+    "600865": {
+      "name": "百大集团",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 62.6,
+      "last_theme": "其他龙虎榜异动"
+    },
     "002104": {
       "name": "恒宝股份",
+      "streak": 2,
+      "last_group": "风险回避池",
+      "last_score": 58,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "605580": {
+      "name": "恒盛能源",
       "streak": 1,
       "last_group": "风险回避池",
       "last_score": 58,
       "last_theme": "其他龙虎榜异动"
+    },
+    "600272": {
+      "name": "开开实业",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 51.4,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "603162": {
+      "name": "海通发展",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 45.1,
+      "last_theme": "其他龙虎榜异动"
     }
   },
-  "funds": {}
+  "funds": {
+    "ETF:515230": {
+      "name": "软件ETF",
+      "streak": 1,
+      "last_group": "趋势观察池",
+      "last_score": 72.8,
+      "last_theme": "软件/网络安全"
+    },
+    "场外基金:001409": {
+      "name": "工银互联网加股票",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 62.3,
+      "last_theme": "软件/网络安全"
+    },
+    "ETF:159852": {
+      "name": "软件ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 58.6,
+      "last_theme": "软件/网络安全"
+    },
+    "场外基金:012733": {
+      "name": "国泰中证全指软件ETF联接A",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 57.8,
+      "last_theme": "软件/网络安全"
+    },
+    "场外基金:006751": {
+      "name": "富国互联科技股票A",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 57.6,
+      "last_theme": "软件/网络安全"
+    },
+    "ETF:512720": {
+      "name": "计算机ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 56.6,
+      "last_theme": "软件/网络安全"
+    }
+  }
 }
