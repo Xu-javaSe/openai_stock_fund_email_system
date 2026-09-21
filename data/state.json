@@ -1,142 +1,126 @@
 {
-  "last_run": "2026-09-18 18:54:56",
-  "last_trade_date": "2026-09-18",
-  "last_mode": "full",
+  "last_run": "2026-09-21 17:47:52",
+  "last_trade_date": "2026-09-21",
+  "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 114,
-      "last_linkage": "联动强",
-      "last_avg_score": 61.3,
-      "last_count": 11
+      "streak": 115,
+      "last_linkage": "联动中",
+      "last_avg_score": 58.9,
+      "last_count": 12
     },
     "医药/医疗": {
-      "streak": 4,
+      "streak": 5,
       "last_linkage": "孤立异动",
-      "last_avg_score": 56.4,
+      "last_avg_score": 55.0,
+      "last_count": 1
+    },
+    "芯片/半导体材料": {
+      "streak": 1,
+      "last_linkage": "孤立异动",
+      "last_avg_score": 47.6,
       "last_count": 1
     }
   },
   "stocks": {
-    "601086": {
-      "name": "国芳集团",
-      "streak": 2,
-      "last_group": "低吸观察池",
-      "last_score": 83.2,
+    "002631": {
+      "name": "德尔未来",
+      "streak": 3,
+      "last_group": "突破确认池",
+      "last_score": 83.3,
       "last_theme": "其他龙虎榜异动"
     },
-    "000002": {
-      "name": "万科A",
-      "streak": 2,
+    "000560": {
+      "name": "我爱我家",
+      "streak": 1,
       "last_group": "只看不追池",
-      "last_score": 82.8,
+      "last_score": 76.4,
       "last_theme": "其他龙虎榜异动"
+    },
+    "002080": {
+      "name": "中材科技",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 75.8,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "603001": {
+      "name": "奥康国际",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 66.6,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "001389": {
+      "name": "广合科技",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 65.1,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "001317": {
+      "name": "三羊马",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 63.3,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002792": {
+      "name": "通宇通讯",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 57,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "000504": {
+      "name": "南华生物",
+      "streak": 1,
+      "last_group": "风险回避池",
+      "last_score": 55,
+      "last_theme": "医药/医疗"
     },
     "600127": {
       "name": "金健米业",
-      "streak": 4,
-      "last_group": "只看不追池",
-      "last_score": 68.0,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002631": {
-      "name": "德尔未来",
-      "streak": 2,
+      "streak": 5,
       "last_group": "突破确认池",
-      "last_score": 67.5,
+      "last_score": 51.7,
       "last_theme": "其他龙虎榜异动"
     },
-    "002980": {
-      "name": "华盛昌",
-      "streak": 2,
-      "last_group": "只看不追池",
-      "last_score": 67.2,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002902": {
-      "name": "铭普光磁",
-      "streak": 2,
+    "601579": {
+      "name": "会稽山",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 57,
+      "last_score": 47.6,
       "last_theme": "其他龙虎榜异动"
     },
-    "600630": {
-      "name": "龙头股份",
-      "streak": 2,
+    "000823": {
+      "name": "超声电子",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 57,
-      "last_theme": "其他龙虎榜异动"
+      "last_score": 47.6,
+      "last_theme": "芯片/半导体材料"
     },
-    "301688": {
-      "name": "格林生物",
-      "streak": 2,
-      "last_group": "突破确认池",
-      "last_score": 56.4,
-      "last_theme": "医药/医疗"
-    },
-    "603448": {
-      "name": "天博智能",
-      "streak": 2,
-      "last_group": "突破确认池",
-      "last_score": 55.8,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "603248": {
-      "name": "锡华科技",
-      "streak": 4,
+    "601811": {
+      "name": "新华文轩",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 50.2,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "002836": {
-      "name": "新宏泽",
-      "streak": 2,
-      "last_group": "风险回避池",
-      "last_score": 43.4,
+      "last_score": 42.2,
       "last_theme": "其他龙虎榜异动"
     },
     "600448": {
       "name": "华纺股份",
-      "streak": 2,
+      "streak": 3,
       "last_group": "风险回避池",
-      "last_score": 42.2,
+      "last_score": 38.9,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "000002": {
+      "name": "万科A",
+      "streak": 3,
+      "last_group": "风险回避池",
+      "last_score": 38.3,
       "last_theme": "其他龙虎榜异动"
     }
   },
-  "funds": {
-    "ETF:512170": {
-      "name": "医疗ETF",
-      "streak": 1,
-      "last_group": "趋势观察池",
-      "last_score": 78.6,
-      "last_theme": "医药/医疗"
-    },
-    "场外基金:003095": {
-      "name": "中欧医疗健康混合A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 70.8,
-      "last_theme": "医药/医疗"
-    },
-    "场外基金:001717": {
-      "name": "工银前沿医疗股票A",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 62.2,
-      "last_theme": "医药/医疗"
-    },
-    "ETF:512010": {
-      "name": "医药ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 61.8,
-      "last_theme": "医药/医疗"
-    },
-    "ETF:159929": {
-      "name": "医药ETF",
-      "streak": 1,
-      "last_group": "暂不参与池",
-      "last_score": 61.5,
-      "last_theme": "医药/医疗"
-    }
-  }
+  "funds": {}
 }
