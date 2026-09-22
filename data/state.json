@@ -1,10 +1,10 @@
 {
-  "last_run": "2026-09-22 17:11:46",
+  "last_run": "2026-09-22 19:18:01",
   "last_trade_date": "2026-09-22",
-  "last_mode": "stock",
+  "last_mode": "full",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 117,
+      "streak": 118,
       "last_linkage": "联动强",
       "last_avg_score": 61.6,
       "last_count": 9
@@ -13,63 +13,63 @@
   "stocks": {
     "600640": {
       "name": "国脉文化",
-      "streak": 1,
+      "streak": 2,
       "last_group": "低吸观察池",
       "last_score": 85.4,
       "last_theme": "其他龙虎榜异动"
     },
     "603580": {
       "name": "艾艾精工",
-      "streak": 1,
+      "streak": 2,
       "last_group": "低吸观察池",
       "last_score": 77.1,
       "last_theme": "其他龙虎榜异动"
     },
     "000607": {
       "name": "华媒控股",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 70.4,
       "last_theme": "其他龙虎榜异动"
     },
     "600503": {
       "name": "华丽家族",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 65.4,
       "last_theme": "其他龙虎榜异动"
     },
     "600792": {
       "name": "云煤能源",
-      "streak": 1,
+      "streak": 2,
       "last_group": "只看不追池",
       "last_score": 58.8,
       "last_theme": "其他龙虎榜异动"
     },
     "603068": {
       "name": "博通集成",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 58.1,
       "last_theme": "其他龙虎榜异动"
     },
     "600743": {
       "name": "华远控股",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 57.9,
       "last_theme": "其他龙虎榜异动"
     },
     "603230": {
       "name": "内蒙新华",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 42.2,
       "last_theme": "其他龙虎榜异动"
     },
     "001234": {
       "name": "泰慕士",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 38.7,
       "last_theme": "其他龙虎榜异动"
