@@ -1,10 +1,10 @@
 {
-  "last_run": "2026-09-28 18:44:10",
+  "last_run": "2026-09-28 21:25:11",
   "last_trade_date": "2026-09-28",
-  "last_mode": "stock",
+  "last_mode": "full",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 125,
+      "streak": 126,
       "last_linkage": "联动中",
       "last_avg_score": 57.8,
       "last_count": 6
@@ -13,42 +13,42 @@
   "stocks": {
     "000980": {
       "name": "众泰汽车",
-      "streak": 1,
+      "streak": 2,
       "last_group": "只看不追池",
       "last_score": 75.2,
       "last_theme": "其他龙虎榜异动"
     },
     "001368": {
       "name": "通达创智",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 71.6,
       "last_theme": "其他龙虎榜异动"
     },
     "002640": {
       "name": "跨境通",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 71.3,
       "last_theme": "其他龙虎榜异动"
     },
     "601218": {
       "name": "吉鑫科技",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 50.6,
       "last_theme": "其他龙虎榜异动"
     },
     "605366": {
       "name": "宏柏新材",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 41.2,
       "last_theme": "其他龙虎榜异动"
     },
     "603278": {
       "name": "大业股份",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 36.7,
       "last_theme": "其他龙虎榜异动"
