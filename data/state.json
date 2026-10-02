@@ -1,10 +1,10 @@
 {
-  "last_run": "2026-10-01 20:49:11",
-  "last_trade_date": "2026-10-01",
-  "last_mode": "full",
+  "last_run": "2026-10-02 18:24:03",
+  "last_trade_date": "2026-10-02",
+  "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 132,
+      "streak": 133,
       "last_linkage": "联动强",
       "last_avg_score": 60.7,
       "last_count": 11
@@ -13,77 +13,77 @@
   "stocks": {
     "002244": {
       "name": "滨江集团",
-      "streak": 4,
+      "streak": 5,
       "last_group": "低吸观察池",
       "last_score": 85.9,
       "last_theme": "其他龙虎榜异动"
     },
     "600383": {
       "name": "金地集团",
-      "streak": 4,
+      "streak": 5,
       "last_group": "低吸观察池",
       "last_score": 80.7,
       "last_theme": "其他龙虎榜异动"
     },
     "600657": {
       "name": "信达地产",
-      "streak": 4,
+      "streak": 5,
       "last_group": "低吸观察池",
       "last_score": 77.7,
       "last_theme": "其他龙虎榜异动"
     },
     "603188": {
       "name": "亚邦股份",
-      "streak": 4,
+      "streak": 5,
       "last_group": "突破确认池",
       "last_score": 67.2,
       "last_theme": "其他龙虎榜异动"
     },
     "600825": {
       "name": "新华传媒",
-      "streak": 4,
+      "streak": 5,
       "last_group": "突破确认池",
       "last_score": 64.1,
       "last_theme": "其他龙虎榜异动"
     },
     "605388": {
       "name": "均瑶健康",
-      "streak": 4,
+      "streak": 5,
       "last_group": "突破确认池",
       "last_score": 61.6,
       "last_theme": "其他龙虎榜异动"
     },
     "000678": {
       "name": "襄阳轴承",
-      "streak": 4,
+      "streak": 5,
       "last_group": "风险回避池",
       "last_score": 57,
       "last_theme": "其他龙虎榜异动"
     },
     "600418": {
       "name": "江淮汽车",
-      "streak": 4,
+      "streak": 5,
       "last_group": "风险回避池",
       "last_score": 52.5,
       "last_theme": "其他龙虎榜异动"
     },
     "301513": {
       "name": "尚水智能",
-      "streak": 4,
+      "streak": 5,
       "last_group": "风险回避池",
       "last_score": 42.0,
       "last_theme": "其他龙虎榜异动"
     },
     "000011": {
       "name": "深物业A",
-      "streak": 6,
+      "streak": 7,
       "last_group": "风险回避池",
       "last_score": 41.5,
       "last_theme": "其他龙虎榜异动"
     },
     "002962": {
       "name": "五方光电",
-      "streak": 4,
+      "streak": 5,
       "last_group": "风险回避池",
       "last_score": 37.8,
       "last_theme": "其他龙虎榜异动"
