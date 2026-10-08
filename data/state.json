@@ -1,91 +1,119 @@
 {
-  "last_run": "2026-10-07 21:00:26",
-  "last_trade_date": "2026-10-07",
-  "last_mode": "full",
+  "last_run": "2026-10-08 19:14:28",
+  "last_trade_date": "2026-10-08",
+  "last_mode": "stock",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 140,
+      "streak": 141,
       "last_linkage": "联动强",
-      "last_avg_score": 60.7,
-      "last_count": 11
+      "last_avg_score": 69.9,
+      "last_count": 15
     }
   },
   "stocks": {
-    "002244": {
-      "name": "滨江集团",
-      "streak": 12,
+    "002285": {
+      "name": "世联行",
+      "streak": 1,
       "last_group": "低吸观察池",
-      "last_score": 85.9,
+      "last_score": 92.3,
       "last_theme": "其他龙虎榜异动"
     },
-    "600383": {
-      "name": "金地集团",
-      "streak": 12,
+    "002614": {
+      "name": "奥佳华",
+      "streak": 1,
       "last_group": "低吸观察池",
-      "last_score": 80.7,
+      "last_score": 89.5,
       "last_theme": "其他龙虎榜异动"
     },
-    "600657": {
-      "name": "信达地产",
-      "streak": 12,
+    "002882": {
+      "name": "金龙羽",
+      "streak": 1,
+      "last_group": "突破确认池",
+      "last_score": 88.9,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002074": {
+      "name": "国轩高科",
+      "streak": 1,
       "last_group": "低吸观察池",
-      "last_score": 77.7,
+      "last_score": 86.4,
       "last_theme": "其他龙虎榜异动"
     },
-    "603188": {
-      "name": "亚邦股份",
-      "streak": 12,
+    "301190": {
+      "name": "善水科技",
+      "streak": 1,
+      "last_group": "低吸观察池",
+      "last_score": 82.6,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002565": {
+      "name": "顺灏股份",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 77.6,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002580": {
+      "name": "圣阳股份",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 76,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "002490": {
+      "name": "山东墨龙",
+      "streak": 1,
+      "last_group": "只看不追池",
+      "last_score": 75.1,
+      "last_theme": "其他龙虎榜异动"
+    },
+    "600663": {
+      "name": "陆家嘴",
+      "streak": 1,
       "last_group": "突破确认池",
-      "last_score": 67.2,
+      "last_score": 67.3,
       "last_theme": "其他龙虎榜异动"
     },
-    "600825": {
-      "name": "新华传媒",
-      "streak": 12,
+    "002866": {
+      "name": "传艺科技",
+      "streak": 1,
       "last_group": "突破确认池",
-      "last_score": 64.1,
+      "last_score": 66.5,
       "last_theme": "其他龙虎榜异动"
     },
-    "605388": {
-      "name": "均瑶健康",
-      "streak": 12,
-      "last_group": "突破确认池",
-      "last_score": 61.6,
-      "last_theme": "其他龙虎榜异动"
-    },
-    "000678": {
-      "name": "襄阳轴承",
-      "streak": 12,
+    "603906": {
+      "name": "龙蟠科技",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 57,
+      "last_score": 58,
       "last_theme": "其他龙虎榜异动"
     },
-    "600418": {
-      "name": "江淮汽车",
-      "streak": 12,
+    "600152": {
+      "name": "维科技术",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 52.5,
+      "last_score": 51.8,
       "last_theme": "其他龙虎榜异动"
     },
-    "301513": {
-      "name": "尚水智能",
-      "streak": 12,
+    "600127": {
+      "name": "金健米业",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 42.0,
+      "last_score": 50.6,
       "last_theme": "其他龙虎榜异动"
     },
-    "000011": {
-      "name": "深物业A",
-      "streak": 14,
+    "600241": {
+      "name": "时代万恒",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 41.5,
+      "last_score": 44.2,
       "last_theme": "其他龙虎榜异动"
     },
-    "002962": {
-      "name": "五方光电",
-      "streak": 12,
+    "002242": {
+      "name": "九阳股份",
+      "streak": 1,
       "last_group": "风险回避池",
-      "last_score": 37.8,
+      "last_score": 41.2,
       "last_theme": "其他龙虎榜异动"
     }
   },
