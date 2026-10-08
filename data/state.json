@@ -1,10 +1,10 @@
 {
-  "last_run": "2026-10-08 19:14:28",
+  "last_run": "2026-10-08 21:07:57",
   "last_trade_date": "2026-10-08",
-  "last_mode": "stock",
+  "last_mode": "full",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 141,
+      "streak": 142,
       "last_linkage": "联动强",
       "last_avg_score": 69.9,
       "last_count": 15
@@ -13,105 +13,105 @@
   "stocks": {
     "002285": {
       "name": "世联行",
-      "streak": 1,
+      "streak": 2,
       "last_group": "低吸观察池",
       "last_score": 92.3,
       "last_theme": "其他龙虎榜异动"
     },
     "002614": {
       "name": "奥佳华",
-      "streak": 1,
+      "streak": 2,
       "last_group": "低吸观察池",
       "last_score": 89.5,
       "last_theme": "其他龙虎榜异动"
     },
     "002882": {
       "name": "金龙羽",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 88.9,
       "last_theme": "其他龙虎榜异动"
     },
     "002074": {
       "name": "国轩高科",
-      "streak": 1,
+      "streak": 2,
       "last_group": "低吸观察池",
       "last_score": 86.4,
       "last_theme": "其他龙虎榜异动"
     },
     "301190": {
       "name": "善水科技",
-      "streak": 1,
+      "streak": 2,
       "last_group": "低吸观察池",
       "last_score": 82.6,
       "last_theme": "其他龙虎榜异动"
     },
     "002565": {
       "name": "顺灏股份",
-      "streak": 1,
+      "streak": 2,
       "last_group": "只看不追池",
       "last_score": 77.6,
       "last_theme": "其他龙虎榜异动"
     },
     "002580": {
       "name": "圣阳股份",
-      "streak": 1,
+      "streak": 2,
       "last_group": "只看不追池",
       "last_score": 76,
       "last_theme": "其他龙虎榜异动"
     },
     "002490": {
       "name": "山东墨龙",
-      "streak": 1,
+      "streak": 2,
       "last_group": "只看不追池",
       "last_score": 75.1,
       "last_theme": "其他龙虎榜异动"
     },
     "600663": {
       "name": "陆家嘴",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 67.3,
       "last_theme": "其他龙虎榜异动"
     },
     "002866": {
       "name": "传艺科技",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 66.5,
       "last_theme": "其他龙虎榜异动"
     },
     "603906": {
       "name": "龙蟠科技",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 58,
       "last_theme": "其他龙虎榜异动"
     },
     "600152": {
       "name": "维科技术",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 51.8,
       "last_theme": "其他龙虎榜异动"
     },
     "600127": {
       "name": "金健米业",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 50.6,
       "last_theme": "其他龙虎榜异动"
     },
     "600241": {
       "name": "时代万恒",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 44.2,
       "last_theme": "其他龙虎榜异动"
     },
     "002242": {
       "name": "九阳股份",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 41.2,
       "last_theme": "其他龙虎榜异动"
