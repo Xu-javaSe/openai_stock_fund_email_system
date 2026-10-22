@@ -1,16 +1,16 @@
 {
-  "last_run": "2026-10-22 17:17:29",
+  "last_run": "2026-10-22 19:28:49",
   "last_trade_date": "2026-10-22",
-  "last_mode": "stock",
+  "last_mode": "full",
   "themes": {
     "其他龙虎榜异动": {
-      "streak": 161,
+      "streak": 162,
       "last_linkage": "联动中",
       "last_avg_score": 58.0,
       "last_count": 8
     },
     "芯片/半导体材料": {
-      "streak": 1,
+      "streak": 2,
       "last_linkage": "孤立异动",
       "last_avg_score": 50.5,
       "last_count": 1
@@ -19,67 +19,110 @@
   "stocks": {
     "300296": {
       "name": "利亚德",
-      "streak": 1,
+      "streak": 2,
       "last_group": "低吸观察池",
       "last_score": 84.4,
       "last_theme": "其他龙虎榜异动"
     },
     "000678": {
       "name": "襄阳轴承",
-      "streak": 1,
+      "streak": 2,
       "last_group": "低吸观察池",
       "last_score": 76.5,
       "last_theme": "其他龙虎榜异动"
     },
     "601999": {
       "name": "出版传媒",
-      "streak": 1,
+      "streak": 2,
       "last_group": "突破确认池",
       "last_score": 62.1,
       "last_theme": "其他龙虎榜异动"
     },
     "603089": {
       "name": "正裕工业",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 56.8,
       "last_theme": "其他龙虎榜异动"
     },
     "000530": {
       "name": "冰山冷热",
-      "streak": 3,
+      "streak": 4,
       "last_group": "风险回避池",
       "last_score": 55.8,
       "last_theme": "其他龙虎榜异动"
     },
     "001388": {
       "name": "信通电子",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 50.5,
       "last_theme": "芯片/半导体材料"
     },
     "601091": {
       "name": "沈鼓集团",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 47.6,
       "last_theme": "其他龙虎榜异动"
     },
     "301591": {
       "name": "肯特股份",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 46.9,
       "last_theme": "其他龙虎榜异动"
     },
     "301686": {
       "name": "中塑股份",
-      "streak": 1,
+      "streak": 2,
       "last_group": "风险回避池",
       "last_score": 33.8,
       "last_theme": "其他龙虎榜异动"
     }
   },
-  "funds": {}
+  "funds": {
+    "场外基金:008281": {
+      "name": "国泰CES半导体芯片ETF联接A",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 50.3,
+      "last_theme": "芯片/半导体材料"
+    },
+    "场外基金:014418": {
+      "name": "西部利得CES半导体芯片行业指数A",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 50.2,
+      "last_theme": "芯片/半导体材料"
+    },
+    "ETF:159995": {
+      "name": "芯片ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 50.0,
+      "last_theme": "芯片/半导体材料"
+    },
+    "ETF:512480": {
+      "name": "半导体ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 50.0,
+      "last_theme": "芯片/半导体材料"
+    },
+    "场外基金:013339": {
+      "name": "创金合信芯片产业股票A",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 50.0,
+      "last_theme": "芯片/半导体材料"
+    },
+    "ETF:588200": {
+      "name": "科创芯片ETF",
+      "streak": 1,
+      "last_group": "暂不参与池",
+      "last_score": 49.6,
+      "last_theme": "芯片/半导体材料"
+    }
+  }
 }
